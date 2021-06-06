@@ -1,6 +1,6 @@
-Installation
+Installation 
 
-    ```
+```
 git clone https://github.com/Drew11/telekart-test-task.git
 cd telekart-test-task
 npm install
@@ -8,6 +8,7 @@ npm install
 
 In the project directory, you can run dev server:
 
-    #### `yarn start`
+#### `yarn start`
 
-    [Demo](https://drew11.github.io/telekart-test-task/)
+------------------------------------------------------------------------
+Follow the[Link](https://drew11.github.io/venbest-test-app/) to see demo
