@@ -11,4 +11,4 @@ In the project directory, you can run dev server:
 #### `yarn start`
 
 ------------------------------------------------------------------------
-Follow the **[Link](https://drew11.github.io/venbest-test-app/)** to see demo
+Follow the **[Link](https://drew11.github.io/telekart-test-task/)** to see demo
