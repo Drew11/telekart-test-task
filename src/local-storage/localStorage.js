@@ -4,11 +4,7 @@ export const loadState = () => {
     try {
         const serializedState = JSON.parse(window.localStorage.getItem('state'));
 
-        if (serializedState === null) {
-            return data
-        }
-
-        if (serializedState.length === 0) {
+        if (serializedState === null || serializedState.length === 0) {
             return data
         }
 
