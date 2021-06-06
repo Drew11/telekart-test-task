@@ -1,0 +1,11 @@
+.cls-button-wrapper {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.wrapper-modal {
+    margin: 10px 0;
+    display: flex;
+    justify-content: flex-end;
+}

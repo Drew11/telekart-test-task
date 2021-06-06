@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+.App {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  flex: 0 0 auto;
+  height: 100px;
+}
+
+.content {
+  flex: 2 0 auto;
+  margin: 10px 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer {
+  flex: 0 0 auto;
+  height: 50px;
+}
+
+.header,
+.footer {
+  display: flex;
+  align-items: center;
+  background: #7FDBFF;
+}
+
+h2 {
+  margin-left: 10px;
+  color: #0074D9
+}
+
